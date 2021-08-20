@@ -1,0 +1,10 @@
+[package]
+name = "whyc"
+version = "0.0.0"
+edition = "2018"
+publish = false
+
+[dependencies]
+ariadne = "0.1"
+chumsky = "0.3"
+logos = "0.12.0"
